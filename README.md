@@ -55,13 +55,9 @@ _4 - Relação entre expectativa de vida e PIB_
 
 Países como os EUA, o México, o Zimbabué e a Alemanha, têm relações lineares entre o PIB e a expectativa de vida. Em geral, pode-se observar um aumento do PIB e da expectativa de vida em todos os países, apresentando uma correlação positiva, que é confirmada pelos coeficientes de Pearson calculados acima de 0.90 para cada país.
 
-## 3.3. Análise preditiva
-
-A análise preditiva foi realizada para os países que apresentam relação linear entre PIB e expectativa de vida, quais sejam EUA, México, Zimbábue e Alemanha. Para cada país foi feita uma regressão linear e obtida a equação da reta, que possibilita encontrar qual o PIB esperado que um país alcance para determinada expectativa de vida.
-
 # 4. Conclusões
 
-Este projeto foi capaz de fazer algumas visualizações de dados, embora o dataset tivesse apenas 96 linhas e 4 colunas. O projeto também conseguiu responder a algumas das questões colocadas no início:
+Este projeto foi capaz de fazer algumas visualizações de dados, embora o dataset tivesse apenas 96 linhas e 4 colunas. O projeto também conseguiu responder as questões colocadas no início:
 - **A expectativa de vida tem aumentado ao longo dos anos nos seis países?**
 
   Sim, principalmente para o Zimbábue.
@@ -79,4 +75,18 @@ Este projeto foi capaz de fazer algumas visualizações de dados, embora o datas
   Sim, há uma forte correlação positiva entre expectativa de vida e PIB em todos os seis países.
 
 # 5. Futuras pesquisas
+Após a análise dos dados, alguns questionamentos surgiram e podem ser fruto de pesquisas futuras:
 
+- O que explica o PIB na China ao longo dos anos não ter apresentado quedas significativas em meio a crise econômica mundial (meados de 2008/2009)?
+
+Para tentar esclarecer essa questão especificamente, recorri a um estudo chamado ["Crise ou Oportunidade: Resposta da China à Crise Financeira Global"](https://repositorio.ipea.gov.br/bitstream/11058/6235/1/RTM_v1_n1_Crise.pdf), o qual traz os impactos da crise no país, as fontes de desaceleração econômica e as medidas adotadas para o combate à crise. A economia chinesa havia sido fortemente afetada pela crise econômica mundial no final de 2008 e no início de 2009, com uma queda acentuada na demanda internacional pelos produtos de exportação chineses. Contudo, o país conseguiu reverter a tendência de queda graças a um grande pacote de estímulo do governo, que apostou em obras de infraestrutura e no crescimento do mercado interno para manter as fortes taxas de crescimento econômico.
+
+Outros questionamentos que merecem atenção são:
+
+- O que ocorreu nos países latinos Chile e México que ocasionou a diminuição da expectativa de vida entre 2007 e 2010?
+- O que explica o crescimento do PIB do Zimbábue a partir de 2008?
+
+# 6. Referências
+BBC NEWS BRASIL. Economia da China cresce 8,7% em 2009 e deve se tornar 2ª do mundo. Disponível em: https://www.bbc.com/portuguese/noticias/2010/01/100121_chinacrescimento_rw.
+
+FANG, C., YANG, D., MEIYANG, W. Crise ou Oportunidade: Resposta da China à Crise Financeira Global. Revista Tempo do Mundo, v.1, n.1, 2009.
